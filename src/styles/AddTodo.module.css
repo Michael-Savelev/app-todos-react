@@ -1,0 +1,17 @@
+.lbl {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #F9F9F9;
+}
+
+.int {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.025em;
+  color: #F9F9F9;
+}

@@ -1,0 +1,24 @@
+.list_item {
+  display: flex;
+  cursor: pointer;
+}
+
+.text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.025em;
+  color: #F9F9F9;
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+
+.text:hover {
+  color: #29A19C;
+}
+
+.icon {
+  margin-right: 10px;
+}

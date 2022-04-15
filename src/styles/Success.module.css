@@ -1,0 +1,45 @@
+.wrapper {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #F9F9F9;
+  margin-bottom: 10px;
+}
+
+.circle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  position: static;
+  width: 100px;
+  height: 100px;
+  left: 0px;
+  top: 26px;
+
+
+  border: 1px solid #29A19C;
+  box-sizing: border-box;
+  border-radius: 200px;
+  border-radius: 200px;
+}
+
+.value {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 49px;
+  letter-spacing: 0.02em;
+  color: #29A19C;
+}

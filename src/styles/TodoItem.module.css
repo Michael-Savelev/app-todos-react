@@ -1,0 +1,26 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 15px;
+  min-width: 370px;
+  left: calc(50% - 526px/2);
+  background: #2C3440;
+  border: 1px solid rgba(249, 249, 249, 0.2);
+  box-sizing: border-box;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.trash {
+  margin-left: auto;
+  display: none;
+}
+
+.wrapper:hover .trash {
+  display: inline-block;
+}
+
+.done {
+  text-decoration: line-through;
+}

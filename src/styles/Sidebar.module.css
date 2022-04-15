@@ -1,0 +1,23 @@
+.wrapper {
+  display: grid;
+  position: fixed;
+  align-content: flex-start;
+  margin-left: 20px;
+  row-gap: 60px;
+
+}
+
+.logo {
+  margin-top: 20px;
+}
+
+.ul {
+  display: grid;
+  align-content: flex-start;
+  gap: 30px;
+}
+
+.login {
+  display: grid;
+  margin-top: 130px;
+}

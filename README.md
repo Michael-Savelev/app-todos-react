@@ -3,7 +3,7 @@
 
 1. Скачать репозиторий. Для этого вводим в Терминал:
 
-### `git clone [url репозитория]`
+### `git clone https://github.com/Michael-Savelev/app-todos-react`
 
 2. Открыть проект в WebStorm/VS Code и в локальном терминале скачать необходимый пакет:
 
